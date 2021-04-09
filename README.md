@@ -1,4 +1,4 @@
-# kegiatan1
+# BMI Calculator
 
 A new Flutter project.
 
